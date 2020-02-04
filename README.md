@@ -5,6 +5,10 @@ Simula uma simples consulta de débitos e score de um CPF e registra o log da co
 
 <img src="https://i.pinimg.com/originals/4c/ce/d5/4cced5cd1de68c541880c20ed92d6189.png">
 
+Usuário de teste criado no serviço de autenticação: 
+email: daniell.oliveirra@gmail.com
+senha: 123456
+
 ### Executando o projeto no docker
 
 1. Instalando
